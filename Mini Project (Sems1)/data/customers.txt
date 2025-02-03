@@ -1,0 +1,24 @@
+Name       : Lakshit
+Age        : 19
+Email      : Lakshit@msad.com
+Phone      : 1234567890
+Gender     : M
+ID Type    : Adhaar
+ID Number  : 123456789012
+------------------------------------------
+Name       : sad
+Age        : 12
+Email      : asdfgh@.
+Phone      : 1234567890
+Gender     : M
+ID Type    : PAN
+ID Number  : 1234567890
+------------------------------------------
+Name       : Lakshit
+Age        : 12
+Email      : laksh@1.com
+Phone      : 1234567890
+Gender     : M
+ID Type    : Adhaar
+ID Number  : 123456789009
+------------------------------------------
